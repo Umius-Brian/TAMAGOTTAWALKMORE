@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(#fbccd1, #b19cd9);
+   }
+   
+p{
+    font-family: Helvetica;
+    font-size: 20px;
+    background: -webkit-linear-gradient(#666699, #301934);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.area {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  h2 {
+    padding: 5px;
+    text-align: center;
+  }
+  mark {
+    background-color: lemonchiffon;
+    color: black;
+  }

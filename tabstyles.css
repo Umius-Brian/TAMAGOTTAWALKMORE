@@ -1,0 +1,40 @@
+body {
+    background-image: url("bg.png");
+    background-size: 30px 60px;
+   }
+   
+p {
+    font-family: 'Lucida Console',
+}
+
+
+th {
+    font-size: 100;
+}
+
+img {
+    border-radius: 5%;
+    border: 7px dotted #b19cd9;
+    padding: 1px;
+  }
+
+h1 {
+    font-family: 'Tahoma';
+    width: 700px;
+    height: 100px;
+    font-size: 50px;
+    background: -webkit-linear-gradient(#89cff0, #966FD6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-radius: 5%;
+    border: 7px dotted #b19cd9;
+    padding: 1px;
+    text-align: center;
+    display: table
+}
+
+div {
+    background: #fbccd1;
+    width: 700px;
+    height: 100px;
+}
